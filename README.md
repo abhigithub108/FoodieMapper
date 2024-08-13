@@ -1,1 +1,1 @@
-# FoodieMapper
+# Restaurant
